@@ -21,8 +21,8 @@
 title: Cecilia (Chen) Liu
 email: test@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the research website for Cecilia (Chen) Liu. I am a senior applied ML researcher in industry, with over 10 years of deep learning experience.
-  I am broaded interested in the areas of natural language processing, representation learning, and reinforcement learning.
+  This is the research website for Cecilia (Chen) Liu, a senior applied ML researcher in industry with over 10 years of experience.
+  My interest are broadly in the areas of natural language processing, representation learning, and deep reinforcement learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: abc
